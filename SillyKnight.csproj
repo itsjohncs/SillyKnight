@@ -45,6 +45,8 @@
     <Compile Include="CollectibleKey.cs" />
     <Compile Include="CollectibleState.cs" />
     <Compile Include="Nametag.cs" />
+    <Compile Include="SpawnedByHolder.cs" />
+    <Compile Include="KeyBox.cs" />
     <Compile Include="Properties/AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
